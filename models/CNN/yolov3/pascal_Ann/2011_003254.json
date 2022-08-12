@@ -1,0 +1,1 @@
+{"shape": {"depth": "3", "height": "500", "width": "375"}, "objects": {"1": {"name": "tvmonitor", "bbox": {"xmax": "281", "xmin": "147", "ymax": "309", "ymin": "199"}}, "2": {"name": "bottle", "bbox": {"xmax": "148", "xmin": "130", "ymax": "305", "ymin": "259"}}, "3": {"name": "sofa", "bbox": {"xmax": "66", "xmin": "1", "ymax": "464", "ymin": "267"}}}}

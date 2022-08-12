@@ -1,0 +1,1 @@
+{"shape": {"depth": "3", "height": "500", "width": "375"}, "objects": {"1": {"name": "person", "bbox": {"xmax": "344", "xmin": "48", "ymax": "321", "ymin": "42"}}, "2": {"name": "person", "bbox": {"xmax": "231", "xmin": "181", "ymax": "478", "ymin": "377"}}}}

@@ -1,0 +1,1 @@
+{"shape": {"depth": "3", "height": "375", "width": "500"}, "objects": {"1": {"name": "aeroplane", "bbox": {"xmax": "414", "xmin": "351", "ymax": "68", "ymin": "34"}}, "2": {"name": "aeroplane", "bbox": {"xmax": "350", "xmin": "289", "ymax": "66", "ymin": "41"}}, "3": {"name": "aeroplane", "bbox": {"xmax": "500", "xmin": "110", "ymax": "375", "ymin": "16"}}}}

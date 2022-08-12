@@ -1,0 +1,1 @@
+{"shape": {"width": "400", "height": "300", "depth": "3"}, "objects": {"1": {"name": "boat", "bbox": {"xmin": "304", "ymin": "70", "xmax": "400", "ymax": "98"}}, "2": {"name": "person", "bbox": {"xmin": "77", "ymin": "79", "xmax": "193", "ymax": "300"}}, "3": {"name": "person", "bbox": {"xmin": "81", "ymin": "35", "xmax": "245", "ymax": "296"}}}}

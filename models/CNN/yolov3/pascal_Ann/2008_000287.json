@@ -1,0 +1,1 @@
+{"shape": {"width": "500", "height": "340", "depth": "3"}, "objects": {"1": {"name": "pottedplant", "bbox": {"xmin": "285", "ymin": "100", "xmax": "426", "ymax": "321"}}, "2": {"name": "pottedplant", "bbox": {"xmin": "3", "ymin": "27", "xmax": "226", "ymax": "303"}}}}
